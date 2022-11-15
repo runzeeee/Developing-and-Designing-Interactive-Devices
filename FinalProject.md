@@ -27,6 +27,60 @@ Scaled down version of archery where the players throw darts at an archery targe
 1. Project plan: Big idea, timeline, parts needed, fall-back plan.
  ![image](https://user-images.githubusercontent.com/58859231/202033270-e53fa037-42ce-444f-a908-c8b16d0694e3.png)
 
+Big idea:
+
+# Darchery
+Scaled down version of archery where the players throw darts at an archery target, and the points for each player are tracked and displayed on a web server. The settings could be configured such that numerous games could be played.
+
+timeline:
+
+November 7-10
+
+Test out mini model of "Darchery"
+
+November 10-14
+
+Gather materials needed for bigger version of "Darchery"
+
+November 15-18
+
+Build the actual version of "Darchery"
+
+November 21-22/23
+
+Team's functional check off
+
+November 28-December 2
+
+Prepare the documentation / presentation
+
+
+parts needed:
+
+Raspberry Pi 
+
+Capacitor sensors
+
+Joystick sensor
+
+Digital screen
+
+Alligator clips
+
+Cardboards
+
+Tapes
+
+Tin foil
+
+...
+
+
+
+fall-back plan:
+
+whack-a-mole or mini golf
+
 
 2. Functioning project: The finished project should be a device, system, interface, etc. that people can interact with.
 
