@@ -1,3 +1,4 @@
+# Runze Zhang, Heather Zhang, James Donnelly, Grace Nho
 # Final Project
 
 Using the tools and techniques you learned in this class, design, prototype and test an interactive device.
@@ -17,10 +18,15 @@ Write-up and documentation due - December 13
 The goal of this final project is for you to have a fully functioning and well-designed interactive device of your own design.
  
 ## Description
-Your project is to design and build an interactive device to suit a specific application of your choosing, and test the interaction with people. 
+
+# Darchery
+Scaled down version of archery where the players throw darts at an archery target, and the points for each player are tracked and displayed on a web server. The settings could be configured such that numerous games could be played.
+
 ## Deliverables
 
 1. Project plan: Big idea, timeline, parts needed, fall-back plan.
+ ![image](https://user-images.githubusercontent.com/58859231/202033270-e53fa037-42ce-444f-a908-c8b16d0694e3.png)
+
 
 2. Functioning project: The finished project should be a device, system, interface, etc. that people can interact with.
 
