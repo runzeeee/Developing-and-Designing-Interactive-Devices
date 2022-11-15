@@ -19,7 +19,7 @@ The goal of this final project is for you to have a fully functioning and well-d
  
 ## Description
 
-# Darchery
+## Darchery
 Scaled down version of archery where the players throw darts at an archery target, and the points for each player are tracked and displayed on a web server. The settings could be configured such that numerous games could be played.
 
 ## Deliverables
@@ -27,12 +27,12 @@ Scaled down version of archery where the players throw darts at an archery targe
 1. Project plan: Big idea, timeline, parts needed, fall-back plan.
  ![image](https://user-images.githubusercontent.com/58859231/202033270-e53fa037-42ce-444f-a908-c8b16d0694e3.png)
 
-Big idea:
+## Big idea:
 
-# Darchery
+## Darchery
 Scaled down version of archery where the players throw darts at an archery target, and the points for each player are tracked and displayed on a web server. The settings could be configured such that numerous games could be played.
 
-timeline:
+## timeline:
 
 November 7-10
 
@@ -55,7 +55,7 @@ November 28-December 2
 Prepare the documentation / presentation
 
 
-parts needed:
+## parts needed:
 
 Raspberry Pi 
 
@@ -77,7 +77,7 @@ Tin foil
 
 
 
-fall-back plan:
+## fall-back plan:
 
 whack-a-mole or mini golf
 
