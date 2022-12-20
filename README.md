@@ -1,6 +1,10 @@
 # Interactive-Device-Design
 The main repository for the IDD class given by Wendy Ju in the Fall term of 2022 at Cornell Tech.
 
+## Final Project Repo Link: https://github.com/gracenho829/darchery.io
+
+## Final Project Write-up And Documentation Link: https://www.notion.so/Whack-a-Mole-9a7a0d697a254b23b52a1e505a3ad66f
+
 ## Syllabus
 [Syllabus](https://canvas.cornell.edu/courses/33420/assignments/syllabus) 
 
