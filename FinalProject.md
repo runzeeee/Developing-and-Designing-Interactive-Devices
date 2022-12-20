@@ -1,8 +1,7 @@
 # Runze Zhang, Heather Zhang, James Donnelly, Grace Nho
 # Final Project
 
-## Final Project Repo Link:https://github.com/gracenho829/darchery.io
-https://github.com/gracenho829/darchery.io
+## Final Project Repo Link: https://github.com/gracenho829/darchery.io
 
 Using the tools and techniques you learned in this class, design, prototype and test an interactive device.
 
