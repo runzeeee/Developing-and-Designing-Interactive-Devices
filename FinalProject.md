@@ -3,6 +3,8 @@
 
 ## Final Project Repo Link: https://github.com/gracenho829/darchery.io
 
+## Final Project Write-up And Documentation Link: https://www.notion.so/Whack-a-Mole-9a7a0d697a254b23b52a1e505a3ad66f
+
 Using the tools and techniques you learned in this class, design, prototype and test an interactive device.
 
 Project plan - November 22
